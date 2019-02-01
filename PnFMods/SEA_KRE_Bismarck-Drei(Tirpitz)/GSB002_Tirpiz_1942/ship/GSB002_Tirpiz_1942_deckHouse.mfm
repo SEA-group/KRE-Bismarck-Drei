@@ -1,0 +1,17 @@
+<GSB002_Tirpiz_1942_deckHouse.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Drei(Tirpitz)/GSB002_Tirpiz_1942/ship/GSB002_Tirpiz_1942_deckHouse_ao.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Drei(Tirpitz)/GSB002_Tirpiz_1942/ship/GSB002_Tirpiz_1942_deckHouse_n.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Drei(Tirpitz)/GSB002_Tirpiz_1942/ship/GSB002_Tirpiz_1942_deckHouse_mg.tga	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Bismarck-Drei(Tirpitz)/GSB002_Tirpiz_1942/ship/GSB002_Tirpiz_1942_deckHouse_a.tga	</Texture>
+	</property>
+</GSB002_Tirpiz_1942_deckHouse.mfm>
