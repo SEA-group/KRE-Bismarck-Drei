@@ -619,6 +619,24 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	MP_CM096_Platform	</identifier>
+				<transform>
+					<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
+					<row1>	-0.9975 0.0000 -0.0711 0.0000	</row1>
+					<row2>	0.0711 0.0000 -0.9975 0.0000	</row2>
+					<row3>	-0.7858 0.3942 -2.0454 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM096_Platform_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
+					<row1>	0.9958 0.0000 -0.0913 0.0000	</row1>
+					<row2>	0.0913 0.0000 0.9958 0.0000	</row2>
+					<row3>	0.7883 0.3938 -2.0180 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MP_CM097_Stairway	</identifier>
 				<transform>
 					<row0>	0.0000 -0.9999 -0.0132 0.0000	</row0>
@@ -634,6 +652,42 @@
 					<row1>	-0.9961 0.0012 -0.0878 0.0000	</row1>
 					<row2>	-0.0878 -0.0131 0.9961 0.0000	</row2>
 					<row3>	-0.7832 0.3987 -2.1552 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM001_Paravane	</identifier>
+				<transform>
+					<row0>	0.0408 -0.9987 -0.0301 0.0000	</row0>
+					<row1>	-0.5572 -0.0477 0.8290 0.0000	</row1>
+					<row2>	-0.8294 -0.0170 -0.5584 0.0000	</row2>
+					<row3>	0.1836 0.4489 -4.0974 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM001_Paravane_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.0001 1.0000 0.0000 0.0000	</row0>
+					<row1>	0.0579 0.0000 0.9983 0.0000	</row1>
+					<row2>	0.9983 0.0001 -0.0579 0.0000	</row2>
+					<row3>	0.0007 0.4489 -4.1432 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM001_Paravane_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 -1.0000 0.0046 0.0000	</row0>
+					<row1>	0.9965 0.0004 0.0831 0.0000	</row1>
+					<row2>	-0.0831 0.0046 0.9965 0.0000	</row2>
+					<row3>	-0.7450 0.4386 -2.8609 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_GM001_Paravane_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
+					<row1>	0.5700 0.0000 0.8216 0.0000	</row1>
+					<row2>	-0.8216 0.0000 0.5700 0.0000	</row2>
+					<row3>	-0.2446 0.4489 -4.0575 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
