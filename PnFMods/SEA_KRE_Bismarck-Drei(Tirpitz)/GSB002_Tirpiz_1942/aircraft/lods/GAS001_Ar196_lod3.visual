@@ -38,7 +38,7 @@
 			<primitive>	hull_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	PBS_Plane	</identifier>
+					<identifier>	PBSX_Plane	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Bismarck-Drei(Tirpitz)/GSB002_Tirpiz_1942/aircraft/GAS001_Ar196.mfm	</mfm>
 				</material>
 			</primitiveGroup>
