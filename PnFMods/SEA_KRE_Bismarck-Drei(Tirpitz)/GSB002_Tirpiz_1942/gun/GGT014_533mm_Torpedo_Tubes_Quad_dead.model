@@ -1,9 +1,6 @@
 <GGT014_533mm_Torpedo_Tubes_Quad_dead.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_KRE_Bismarck-Drei(Tirpitz)/GSB002_Tirpiz_1942/gun/lods/GGT014_533mm_Torpedo_Tubes_Quad_dead_lod1	</parent>
-	<extent>	2.000000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_KRE_Bismarck-Drei(Tirpitz)/GSB002_Tirpiz_1942/gun/GGT014_533mm_Torpedo_Tubes_Quad_dead	</nodefullVisual>
+	<visual>	PnFMods/SEA_KRE_Bismarck-Drei(Tirpitz)/GSB002_Tirpiz_1942/gun/GGT014_533mm_Torpedo_Tubes_Quad_dead.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </GGT014_533mm_Torpedo_Tubes_Quad_dead.model>
